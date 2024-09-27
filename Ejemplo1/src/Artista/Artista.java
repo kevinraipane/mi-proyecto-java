@@ -32,6 +32,10 @@ public class Artista {
             return edad;
     }
 
+    public String getNacionalidad() {
+        return nacionalidad;
+    }
+
     //Setters
     public void setNombre(String nombre) {//Aca debo llamar de nuevo a las verificaciones
         this.nombre = nombre;
