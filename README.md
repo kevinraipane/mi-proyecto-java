@@ -1,3 +1,3 @@
 # mi-proyecto-java
 
-hi jiji;
+Primer actividad usando GitHub, 
