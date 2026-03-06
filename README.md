@@ -1,3 +1,3 @@
-# mi-proyecto-java
+# Practica de Github
 
 Primer actividad usando GitHub, 
